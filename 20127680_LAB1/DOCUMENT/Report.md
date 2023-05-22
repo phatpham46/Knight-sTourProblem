@@ -18,7 +18,7 @@ at any point in time (by time, here, is referred to the time elapsed till reachi
 any level of the search tree).
 
 ### 1.1. Staistics
-![Result table](/OUTPUT/result_backtrack.png)
+![Result table](../OUTPUT/result_backtrack.png)
 
 - Comment:  
     - Because time complexity of backtracking is O(8𝑛2) – very huge giant number in real time. Therefor, in size 15x15 and 25x25 we compute the statistics based on 1-hour-long runs
@@ -40,7 +40,7 @@ unvisited square with a minimum degree (minimum number of unvisited
 adjacent squares). This approach can be used to any graph in a broader sense
 
 ### 2.1. Staistics
-![Result table](/OUTPUT/result_heuristic.png)
+![Result table](../OUTPUT/result_heuristic.png)
 
 - Comment:  
     - Warnsdorff’s heuristic successfully finds a solution in linear time
