@@ -1,7 +1,7 @@
 
 
 # Knight's tour problem 
-# ======================
+======================
 ## 1. What is Knight’s Tour?
 - On a chessboard, a knight's tour is a series of movements in which
 the knight visits each square precisely once. The tour is closed if the
@@ -17,7 +17,7 @@ at a time, and discarding any solutions that do not satisfy the problem's criter
 at any point in time (by time, here, is referred to the time elapsed till reaching
 any level of the search tree).
 
-### 1.1. Staistics
+### 1.1. Statistics
 ![Result table](../OUTPUT/result_backtrack.png)
 
 - Comment:  
